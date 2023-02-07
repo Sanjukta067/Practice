@@ -1,2 +1,3 @@
 Multiple inheritance is not possible in java.
 basic oops principles - inheritance abstraction encapsulation polymorphism
+constructor is a special type of method.
