@@ -1,1 +1,2 @@
 Multiple inheritance is not possible in java.
+basic oops principles - inheritance abstraction encapsulation polymorphism
